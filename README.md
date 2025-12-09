@@ -37,7 +37,7 @@ The calculator runs entirely in the browser (client-side), no backend required.
 
 3.Open index.html in your favorite browse
 
-##📈 What You Can Add / Improve (Ideas)
+## 📈 What You Can Add / Improve (Ideas)
 
 Input validation (e.g. prevent negative/zero values)
 
@@ -49,11 +49,11 @@ Option to output total amount (principal + interest)
 
 Save history of calculations (in localStorage or similar)
 
-##🤝 Contributions
+## 🤝 Contributions
 
 Feel free to open issues or submit pull requests if you want to add features, improve styling, or fix bugs. Contributions are welcome!
 
-##📄 License
+## 📄 License
 
 Use this project for learning or personal purposes.
 
